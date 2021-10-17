@@ -1,5 +1,5 @@
 These solutions belong to exercises from Tim Buchalka's
-Java Programming Masterclass covering Java 11 & Java 17
+"Java Programming Masterclass covering Java 11 & Java 17"
 course.
 
 There could be plenty of solutions for one exercise but I chose
